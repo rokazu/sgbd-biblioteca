@@ -48,6 +48,8 @@ $RECYCLE.BIN/
 *.dev
 *.layout
 *.txt
+*.win
+*.o
 
 # Windows Installer files
 *.cab
